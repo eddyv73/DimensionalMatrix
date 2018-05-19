@@ -1,0 +1,7 @@
+C:\Users\wiste\source\repos\ExamenMatriz\ExamenMatriz\bin\Debug\DimensionalMatrix.exe.config
+C:\Users\wiste\source\repos\ExamenMatriz\ExamenMatriz\bin\Debug\DimensionalMatrix.exe
+C:\Users\wiste\source\repos\ExamenMatriz\ExamenMatriz\bin\Debug\DimensionalMatrix.pdb
+C:\Users\wiste\source\repos\ExamenMatriz\ExamenMatriz\obj\Debug\DimensionalMatrix.csprojAssemblyReference.cache
+C:\Users\wiste\source\repos\ExamenMatriz\ExamenMatriz\obj\Debug\DimensionalMatrix.csproj.CoreCompileInputs.cache
+C:\Users\wiste\source\repos\ExamenMatriz\ExamenMatriz\obj\Debug\DimensionalMatrix.exe
+C:\Users\wiste\source\repos\ExamenMatriz\ExamenMatriz\obj\Debug\DimensionalMatrix.pdb

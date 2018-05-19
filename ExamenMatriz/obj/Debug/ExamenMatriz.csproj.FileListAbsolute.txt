@@ -1,0 +1,7 @@
+C:\Users\wiste\source\repos\ExamenMatriz\ExamenMatriz\bin\Debug\ExamenMatriz.exe.config
+C:\Users\wiste\source\repos\ExamenMatriz\ExamenMatriz\bin\Debug\ExamenMatriz.exe
+C:\Users\wiste\source\repos\ExamenMatriz\ExamenMatriz\bin\Debug\ExamenMatriz.pdb
+C:\Users\wiste\source\repos\ExamenMatriz\ExamenMatriz\obj\Debug\ExamenMatriz.csproj.CoreCompileInputs.cache
+C:\Users\wiste\source\repos\ExamenMatriz\ExamenMatriz\obj\Debug\ExamenMatriz.exe
+C:\Users\wiste\source\repos\ExamenMatriz\ExamenMatriz\obj\Debug\ExamenMatriz.pdb
+C:\Users\wiste\source\repos\ExamenMatriz\ExamenMatriz\obj\Debug\ExamenMatriz.csprojAssemblyReference.cache
